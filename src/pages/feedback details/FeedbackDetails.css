@@ -1,0 +1,41 @@
+.feedback-details-container{
+    background-color: #F2F4FF;
+    min-height: 100vh;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.details-container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+.f-navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.back-icon{
+    color: #4661E6;
+}
+.back-link{
+    color: rgb(75, 73, 73);
+    text-decoration: none;
+}
+.back-link:hover{
+    text-decoration: underline;
+}
+.edit-feedback-btn{
+    background-color: #4661E6;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 15px;
+}
+.edit-feedback-btn:hover{
+    background-color: #7C91F9;
+}
+@media screen and (max-width: 550px) {
+    .details-container{
+        padding-top: 40px;
+    }
+}

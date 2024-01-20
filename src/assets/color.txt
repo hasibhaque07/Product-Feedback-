@@ -1,0 +1,6 @@
+blue btn: 4661E6
+btn hvr, blue: #7C91F9
+purple btn: 1D1FEA
+purple btn hover: #C75AF6
+
+light blue: F2F4FF
